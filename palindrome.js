@@ -1,5 +1,3 @@
-// Create a new JavaScript file named palindrome.js
-
 // Declare two variables using the prompt() function
 let firstWord = prompt("Enter the first word (e.g., RACECAR):");
 let secondWord = prompt("Enter the second word (e.g., RECORDER):");
